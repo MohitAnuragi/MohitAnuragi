@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mohit Anuragi<br>🎓 Pursuing B.Tech from IIIT Kota<br>💡 Passionate about Android Development & building real-world projects<br>🧠 Strong problem-solving skills with a knack for algorithms and data structures<br>🚀 Always learning, always building!<br><br>
+👋 Hi, I'm Mohit Anuragi<br>🎓 Pursuing B.Tech from IIIT Kota<br>💡 Passionate about Android Development & building real-world projects<br>🧠 Strong problem-solving skills with a cpp for algorithms and data structures<br>🚀 Always learning, always building!<br><br>
 
 Email Me 👉 ✉️ **techmohit468@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **techmohit468@gmail.com** For Collaboration/Project or Any
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohit.anuragi.543) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-a-52989b2b2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25810320) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MohitAnu468) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragimohit468@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohit.anuragi.543) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-a-52989b2b2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25810320) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MohitAnu468) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techmohit468@gmail.com) 
 
 
 # 💻 Tech Stack:
