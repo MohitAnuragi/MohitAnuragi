@@ -6,6 +6,9 @@ Email Me 👉 ✉️ **techmohit468@gmail.com** For Collaboration/Project or Any
 - 🔭 **I’m currently working on:** Reelify
 - 🌱 **I’m currently learning:** kotlin Multiplatform with Jetpack Compose.
 
+## Shayari Shaala App(2k+ users) : 
+https://play.google.com/store/apps/details?id=com.shayarishaala.shayarishaala
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohit.anuragi.543) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-a-52989b2b2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25810320) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MohitAnu468) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techmohit468@gmail.com) 
@@ -20,18 +23,13 @@ Email Me 👉 ✉️ **techmohit468@gmail.com** For Collaboration/Project or Any
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohitAnuragi&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohitAnuragi&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitAnuragi&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MohitAnuragi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohitAnuragi&icon=4&color=3)](https://visitcount.itsvg.in)
